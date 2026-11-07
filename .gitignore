@@ -1,0 +1,4 @@
+build/
+patchers/*/bin/
+patchers/*/obj/
+.DS_Store
